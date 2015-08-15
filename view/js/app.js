@@ -1,0 +1,4 @@
+/*
+ Here you can type you javascript code 
+ By Anass BOUTAKAOUA
+*/

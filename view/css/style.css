@@ -1,0 +1,35 @@
+/*
+*
+* Here you can type your css
+* By Anass Boutakaoua
+*
+*/
+
+@font-face{
+	font-family: Timber;
+	src: url('../fonts/Timber.ttf') format('truetype'), url('../fonts/Timber.otf');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+	width: 100%;
+	text-align: center;
+	height: 100%;
+	position: absolute;
+	font-family: Timber;
+	background-image: url('../img/giftly.png');
+}
+h1, h2, h3, h4, h5, h6{
+	margin-top: 200px;
+    color:#6B6C5F;
+    font-size: 85px;
+}
+p:first-of-type{
+    font-size: 30px;
+}
+p a{
+	color: #6B6C5F;
+}
